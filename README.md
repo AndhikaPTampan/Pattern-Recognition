@@ -2,6 +2,8 @@
 
 Pattern recognition merupakan bagian dari computer vision dan machine learning yang merupakan salah satu bagian dari jenis kecerdasan buatan. Pattern recognition merupakan bidang dalam pembelajaran mesin dan dapat diartikan sebagai "tindakan mengambil data mentah dan bertindak berdasarkan klasifikasi data". Atau Pattern recognition juga dapat didefinisikan sebagai cara untuk mengambil data mentah (raw data) dan mengambil sebuah aksi dari kategori data-data.
 
+https://github.com/anandanand84/technicalindicators
+
 # How it work
 
 1. Penginderaan. Pada tahap ini komputer akan menggunakan berbagai jenis sensor yang ada untuk merekam data. Contohnya adalah sensor kamera, sensor suara seperti mikrofon, dan sensor gerakan atau getaran.
